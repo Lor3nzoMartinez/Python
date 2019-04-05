@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6036b5-c12b-4f4a-a3c6-53aaa772f965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPR19/AAA_oopPracticeAndNotes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/AAA_string_format_notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_5_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/KeyCapScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/MinutesToDHM(OOP).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/venv/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPR19/Mi_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Loren.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Loren.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,21 +35,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_5_yt.py">
+        <entry file="file://$PROJECT_DIR$/SPR19/Project_Euler_Practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="1122">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SPR19/Mi_Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-530">
+              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_5_yt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SPR19/KeyCapScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="34">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="e#6#22#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,22 +112,16 @@
         <option value="$PROJECT_DIR$/SPR19/hw_2_7.py" />
         <option value="$PROJECT_DIR$/SPR19/hw_2_5_yt.py" />
         <option value="$PROJECT_DIR$/SPR19/KeyCapScript.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/CSC141.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/Loren.xml" />
+        <option value="$PROJECT_DIR$/SPR19/in_class_test.py" />
+        <option value="$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py" />
+        <option value="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" />
+        <option value="$PROJECT_DIR$/SPR19/Mi_Game.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="431" />
+    <option name="y" value="-19" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -143,6 +157,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -162,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.KeyCapScript">
+  <component name="RunManager" selected="Python.Mi_Game">
     <configuration name="KeyCapScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MinutesToDHM(OOP)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mi_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +211,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/MinutesToDHM(OOP).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Mi_Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Project_Euler_Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSC141" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,27 +254,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\SPR19\Chapter_2_Homework\hw_2_5_yt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hw_2_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CSC141" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\SPR19\Chapter_2_Homework\hw_2_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Mi_Game" />
+        <item itemvalue="Python.Project_Euler_Practice" />
         <item itemvalue="Python.KeyCapScript" />
         <item itemvalue="Python.hw_2_5_yt" />
         <item itemvalue="Python.hw_2_7" />
-        <item itemvalue="Python.MinutesToDHM(OOP)" />
-        <item itemvalue="Python.hw_2_6" />
       </list>
     </recent_temporary>
   </component>
@@ -289,12 +304,20 @@
       <option name="presentableId" value="Default" />
       <updated>1554100371625</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proj eule push">
+      <created>1554478142317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554478142317</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15724947" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,15 +326,19 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" visible="true" weight="0.28944564" />
+      <window_info anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" weight="0.28944564" />
       <window_info anchor="right" id="Run" order="4" sideWeight="0.5680166" weight="0.28944564" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proj eule push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proj eule push" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Projects/Extra Credit #2.py">
@@ -401,20 +428,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Project_Euler_Practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SPR19/Chapter_2_Homework/hw_2_5_yt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SPR19/KeyCapScript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="34">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#6#22#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Mi_Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-530">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
         </state>
       </provider>
     </entry>

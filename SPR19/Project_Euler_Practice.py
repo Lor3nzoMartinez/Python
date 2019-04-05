@@ -32,7 +32,6 @@ print("\nAnswer is:", x)
 '''
 
 # Problem 3
-prime_numbers = 0
 
 
 def is_prime_number(x):
@@ -45,9 +44,25 @@ def is_prime_number(x):
     return True
 
 
-for i in range(1,100):
-    if is_prime_number(i):
-        prime_numbers += 1
-        print(i)
+def find_prime_factors(num):
+    for i in range(1, num + 1):
+        if is_prime_number(i):
+            print(i)
 
-print("We found " + str(prime_numbers) + " prime numbers.")
+        else:
+            return "No primes."
+
+
+def print_factors(x):
+   print("The factors of",x,"are:")
+   for i in range(1, x + 1):
+       if x % i == 0:
+           print(i)
+
+
+for i in range(716151937, 600_851_475_143):
+    x = print_factors(600_851_475_143)
+    if is_prime_number(i):
+        print(x)
+
+# 716151937

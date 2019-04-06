@@ -20,11 +20,11 @@ clock = pygame.time.Clock()
 
 # Character Image Settings
 
-char_width = 80
+char_width = 99
 
-char_height = 80
+char_height = 130
 
-charImage = pygame.image.load('char.jpg')
+charImage = pygame.image.load('char.png')
 
 
 def char(x, y):
@@ -37,7 +37,7 @@ def game_loop():
 
     x = (display_height * 0.55)
 
-    y = (display_width * 0.65)
+    y = (display_width * 0.58)
 
     x_change = 0
 
@@ -61,13 +61,13 @@ def game_loop():
 
             if event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_LEFT:
-                    x_change = -1
+                    x_change = -5
                 elif event.key == pygame.K_RIGHT:
-                    x_change = 1
+                    x_change = 5
                 elif event.key == pygame.K_UP:
-                    y_change = -1
+                    y_change = -5
                 elif event.key == pygame.K_DOWN:
-                    y_change = 1
+                    y_change = 5
 
             # Handles when keys are released
 
@@ -77,11 +77,9 @@ def game_loop():
                 if event.key == pygame.K_UP or event.key == pygame.K_DOWN:
                     y_change = 0
 
-        # Updates x
+        # Updates x and y
 
         x += x_change
-
-        # Updates y
 
         y += y_change
 
@@ -92,6 +90,20 @@ def game_loop():
         # Passes Updated x and y to character
 
         char(x, y)
+
+        # Boundaries
+
+        if x < 0:
+            x = 2
+
+        if x > display_width - char_width:
+            x = display_width - char_width
+
+        if y < 0:
+            y = 2
+
+        if y > display_height - char_height:
+            y = display_height - char_height
 
         # Passes characters new position to screen
 

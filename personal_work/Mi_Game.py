@@ -8,7 +8,7 @@ display_width = 800
 
 display_height = 600
 
-background = pygame.image.load('JnZJUXH.png')
+background = pygame.image.load('PickRick.png')
 
 white_background = (255, 255, 255)
 

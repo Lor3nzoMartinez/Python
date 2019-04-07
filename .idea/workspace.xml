@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6036b5-c12b-4f4a-a3c6-53aaa772f965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Mi_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Loren.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Loren.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_work/Basic Window W pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_work/Key Display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_work/Sending emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_work/gui_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/previous_work" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/JnZJUXH.png" beforeDir="false" afterPath="$PROJECT_DIR$/personal_work/PickRick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/KeyCapScript.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/Mi_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_work/Mi_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/char.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/char.png" beforeDir="false" afterPath="$PROJECT_DIR$/personal_work/char.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SPR19/face.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/personal_work/face.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +52,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SPR19/Mi_Game.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/personal_work/Key Display.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-530">
-              <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+            <state relative-caret-position="881">
+              <caret line="65" column="52" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/personal_work/gui_window.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -66,18 +87,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SPR19/KeyCapScript.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -116,14 +125,18 @@
         <option value="$PROJECT_DIR$/SPR19/LorenzoMartinezQuiz1.py" />
         <option value="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" />
         <option value="$PROJECT_DIR$/SPR19/Mi_Game.py" />
+        <option value="$PROJECT_DIR$/SPR19/Key Capture.py" />
+        <option value="$PROJECT_DIR$/SPR19/Key Display.py" />
+        <option value="$PROJECT_DIR$/SPR19/Sending emails.py" />
+        <option value="$PROJECT_DIR$/SPR19/gui_window.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="431" />
-    <option name="y" value="-19" />
-    <option name="width" value="974" />
-    <option name="height" value="1087" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,16 +150,6 @@
             <path>
               <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSC141" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC141" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC141" type="462c0819:PsiDirectoryNode" />
-              <item name="SPR19" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,6 +165,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Loren\Desktop\CSC141\personal_work" />
       <recent name="C:\Users\Loren\Desktop\CSC141\SPR19\Chapter_2_Homework" />
     </key>
   </component>
@@ -177,8 +181,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Mi_Game">
-    <configuration name="KeyCapScript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.gui_window">
+    <configuration name="Key Display" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +194,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/KeyCapScript.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\personal_work\Key Display.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mi_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mi_Game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,11 +211,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Mi_Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Mi_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Project_Euler_Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sending emails" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Project_Euler_Practice.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\personal_work\Sending emails.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw_2_5_yt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,11 +253,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\SPR19\Chapter_2_Homework\hw_2_5_yt.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +266,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hw_2_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gui_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\SPR19\Chapter_2_Homework\hw_2_7.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Loren\Desktop\CSC141\personal_work\gui_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Mi_Game" />
-        <item itemvalue="Python.Project_Euler_Practice" />
-        <item itemvalue="Python.KeyCapScript" />
-        <item itemvalue="Python.hw_2_5_yt" />
-        <item itemvalue="Python.hw_2_7" />
+        <item itemvalue="Python.gui_window" />
+        <item itemvalue="Python.Sending emails" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.Mi_Game (1)" />
+        <item itemvalue="Python.Key Display" />
       </list>
     </recent_temporary>
   </component>
@@ -311,17 +315,31 @@
       <option name="project" value="LOCAL" />
       <updated>1554478142317</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Game img">
+      <created>1554514994244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554514994244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Game file">
+      <created>1554515245105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554515245105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1652452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -332,19 +350,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" weight="0.28944564" />
+      <window_info anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" weight="0.55810237" />
       <window_info anchor="right" id="Run" order="4" sideWeight="0.5680166" weight="0.28944564" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proj eule push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proj eule push" />
+    <MESSAGE value="Game img" />
+    <MESSAGE value="Game file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projects/Extra Credit #2.py">
+    <entry file="file://$PROJECT_DIR$/previous_work/Extra Credit #2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/Project J By Lorenzo Martinez.py">
+    <entry file="file://$PROJECT_DIR$/previous_work/Project J By Lorenzo Martinez.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -353,17 +373,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/Dandilion.py">
+    <entry file="file://$PROJECT_DIR$/previous_work/Dandilion.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/Alt Design.py">
+    <entry file="file://$PROJECT_DIR$/previous_work/Alt Design.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="74" lean-forward="true" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/Snake V.2.py">
+    <entry file="file://$PROJECT_DIR$/previous_work/Snake V.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-97">
           <folding>
@@ -414,6 +434,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/KeyCapScript.py" />
+    <entry file="file://$PROJECT_DIR$/personal_work/Basic Window W pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_work/Mi_Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Mi_Game.py" />
     <entry file="file://$PROJECT_DIR$/SPR19/AAA_string_format_notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -449,20 +485,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/KeyCapScript.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="286">
+          <caret line="2304" column="40" lean-forward="true" selection-start-line="2304" selection-start-column="40" selection-end-line="2304" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_work/Sending emails.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Mi_Game.py">
+    <entry file="file://$PROJECT_DIR$/personal_work/Key Display.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-530">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+        <state relative-caret-position="881">
+          <caret line="65" column="52" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal_work/gui_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>

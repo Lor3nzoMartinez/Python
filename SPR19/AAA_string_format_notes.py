@@ -1,5 +1,14 @@
 # Note for string manipulation
 
+months = ['Januaray', 'Februrary', 'March', 'April', 'May', 'June', 'July', 'August', 'September',
+          'October', 'November', 'December']
+
+for i in months:
+    print(f"The one of the months in a year {i}.")
+
+
+
+
 note = "Note'"
 print("\n%s start here: \n" % note)
 
@@ -65,6 +74,41 @@ astring = "Hello world!"
 afewwords = astring.split(" ")
 print(afewwords)
 
+# F strings
+
+print(f"{astring} We ready.\n")
+
+x = []
+
+
+def triangle(n):
+    # number of spaces
+    k = 2 * n - 2
+
+    # outer loop to handle number of rows
+    for i in range(0, n):
+
+        # inner loop to handle number spaces
+        # values changing acc. to requirement
+        for j in range(0, k):
+            print(end=" ")
+
+            # decrementing k after each loop
+        k = k - 1
+
+        # inner loop to handle number of columns
+        # values changing acc. to outer loop
+        for j in range(0, i + 1):
+            # printing stars
+            print("* ", end="")
+
+            # ending line after each row
+        print("\r")
+
+    # Driver Code
+
+
+triangle(12)
 
 
 

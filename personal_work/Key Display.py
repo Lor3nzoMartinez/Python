@@ -60,7 +60,7 @@ def key_capping():
                 pygame.quit()
                 quit()
 
-        while event.type == pygame.KEYDOWN:
+        if event.type == pygame.KEYDOWN:
             message_display(event.unicode)
             if message_display(event.unicode) == True:
                 message_display('+' + event.unicode)

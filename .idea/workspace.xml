@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6036b5-c12b-4f4a-a3c6-53aaa772f965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SPR19/Turtles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPR19/Dictionary_Notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SPR19/List Notes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/AAA_string_format_notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/AAA_string_format_notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_work/Key Display.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_work/Key Display.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SPR19/Project_Euler_Practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
+            <state relative-caret-position="881">
               <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SPR19/Dictionary_Notes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="796">
+              <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SPR19/List Notes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -92,6 +109,8 @@
         <option value="$PROJECT_DIR$/SPR19/AAA_string_format_notes.py" />
         <option value="$PROJECT_DIR$/SPR19/Turtles.py" />
         <option value="$PROJECT_DIR$/personal_work/Key Display.py" />
+        <option value="$PROJECT_DIR$/SPR19/Dictionary_Notes.py" />
+        <option value="$PROJECT_DIR$/SPR19/List Notes.py" />
       </list>
     </option>
   </component>
@@ -107,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,23 +137,12 @@
             <path>
               <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSC141" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC141" type="462c0819:PsiDirectoryNode" />
-              <item name="personal_work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSC141" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC141" type="462c0819:PsiDirectoryNode" />
               <item name="SPR19" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -159,7 +168,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Key Display">
+  <component name="RunManager" selected="Python.List Notes">
+    <configuration name="Dictionary_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSC141" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Dictionary_Notes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Key Display" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,28 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mi_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CSC141" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/personal_work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/personal_work/Mi_Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MinutesToDHM(OOP)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +223,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/MinutesToDHM(OOP).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/List Notes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List Notes" />
+        <item itemvalue="Python.Dictionary_Notes" />
         <item itemvalue="Python.Key Display" />
         <item itemvalue="Python.Sending emails" />
         <item itemvalue="Python.gui_window (1)" />
-        <item itemvalue="Python.Mi_Game" />
-        <item itemvalue="Python.MinutesToDHM(OOP)" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +322,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,7 +337,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" visible="true" weight="0.3347548" />
+      <window_info anchor="right" x="860" y="107" width="543" height="963" id="Python Console" order="3" sideWeight="0.43198338" weight="0.3347548" />
       <window_info anchor="right" id="Run" order="4" sideWeight="0.5680166" weight="0.28944564" />
     </layout>
   </component>
@@ -429,27 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Turtles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/AAA_oopPracticeAndNotes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/MinutesToDHM(OOP).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/personal_work/gui_window.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -498,10 +486,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Turtles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/AAA_oopPracticeAndNotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/MinutesToDHM(OOP).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SPR19/Project_Euler_Practice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
+        <state relative-caret-position="881">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Dictionary_Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="796">
+          <caret line="57" column="21" lean-forward="true" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/List Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>

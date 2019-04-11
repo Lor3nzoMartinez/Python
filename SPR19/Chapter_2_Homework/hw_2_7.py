@@ -9,7 +9,6 @@ what we’re after. If you are tempted to count on your fingers, change the 51 t
 
 '''
 
-
 class AlarmClock:
 
     def __init__(self):
@@ -27,8 +26,18 @@ class AlarmClock:
         self.endTime = self.timeConverter() + self.time
         return self.endTime
 
+    def amorpm(self):
+        counter = 0
+        for i in range(self.time):
+            if i % 12 == 0:
+                counter += 1
+        if counter % 2 != 0:
+            return "AM"
+        else:
+            return "PM"
+
     def toString(self):
-        print("\nI will wake you up in", self.hours, "hours at", self.theTime(), "O'clock.")
+        print("\nI will wake you up in", self.hours, "hours at", self.theTime(), "O'clock.", self.amorpm())
 
 
 alarm = AlarmClock()

@@ -12,6 +12,7 @@ alex.lt(90)
 def clock_stuff(s):
     alex.pu()
     alex.fd(s)
+
     alex.pd()
     alex.fd(s/4)
     alex.pu()

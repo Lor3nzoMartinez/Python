@@ -39,16 +39,20 @@ heros = ['Batman', 'Superman', 'Spider man']
 # print(my_dict)
 
 
-def reverse(x):
-    output_len = len(x)
-    output = [None] * output_len
-    output_index = output_len - 1
-    for c in x:
-        output[output_index] = c
-        output_index -= 1
+# def reverse(x):
+#     output_len = len(x)
+#     output = [None] * output_len
+#     output_index = output_len - 1
+#     for c in x:
+#         output[output_index] = c
+#         output_index -= 1
+#
+#     return ''.join(output)
 
-    return ''.join(output)
 
+# print(reverse("catch"))
 
-print(reverse("catch"))
+L = []
 
+def sep_ints_strs(L):
+    my_list = []

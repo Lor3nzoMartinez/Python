@@ -2,69 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6036b5-c12b-4f4a-a3c6-53aaa772f965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsTestFinder.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Group_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/ch 6 fruitful functions.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/ch 7 iteration.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/ch 8 strings.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/ch 9 10  &amp; 11 tuples event driven prog &amp; lists.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/project - decorated cube 1a.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_5_Homework/hw_5_8_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_13_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_11_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_7_Homework/hw_7_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_yt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 4 notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 5 notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 6 notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 7 notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 8 notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Notes/StringManip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/Extra_Credit_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/InClass_Quiz_5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome _Quiz_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_6_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/final_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IndFinal_LorenzoMartinez.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPrime.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/ch 2 variables expressions statements.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ch 2 variables expressions statements.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/ch 3 turtles.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ch 3 turtles.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/ch 4 functions.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ch 4 functions.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/ch 5 conditionals.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/ch 5 conditionals.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Notes/Chap 3 code.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Notes/Chapter 3 notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Notes/MinutesToDHM(OOP).py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Notes/MinutesToDHM(OOP).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Notes/Turtles_stufvx.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Notes/Turtles_stufvx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/LorenzoMartinezQuiz1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/QUiz 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/InClass_Quiz_ 4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_4_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,23 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 7 notes.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IndFinal_LorenzoMartinez.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5338">
-              <caret line="314" column="43" selection-start-line="314" selection-start-column="43" selection-end-line="314" selection-end-column="43" />
-              <folding>
-                <marker date="1559929664118" expanded="true" signature="912:1239" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 5 notes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="291">
+              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -98,17 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Group_final.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 6 notes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="132" column="30" lean-forward="true" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+            <state relative-caret-position="731">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -128,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_3.py" />
-        <option value="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_4.py" />
         <option value="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_7.py" />
         <option value="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_13.py" />
         <option value="$PROJECT_DIR$/SPR19/Chapter_6_Homework/hw_6_16.py" />
@@ -179,6 +96,8 @@
         <option value="$PROJECT_DIR$/SPR19/Notes/chap 7/WS 7_11.py" />
         <option value="$PROJECT_DIR$/SPR19/Notes/Chapter 7 notes.py" />
         <option value="$PROJECT_DIR$/Group_final.py" />
+        <option value="$PROJECT_DIR$/isPrime.py" />
+        <option value="$PROJECT_DIR$/IndFinal_LorenzoMartinez.py" />
       </list>
     </option>
   </component>
@@ -210,7 +129,7 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="SPR19" type="462c0819:PsiDirectoryNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_8_Homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Group_final">
+  <component name="RunManager" selected="Python.IndFinal_LorenzoMartinez">
     <configuration name="Group_final" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC141" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,6 +181,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Group_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IndFinal_LorenzoMartinez" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSC141" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IndFinal_LorenzoMartinez.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,34 +273,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WSCh7_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CSC141" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SPR19/Notes/chap 7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SPR19/Notes/chap 7/WSCh7_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IndFinal_LorenzoMartinez" />
         <item itemvalue="Python.Group_final" />
         <item itemvalue="Python.WS 7_11" />
         <item itemvalue="Python.WS ch 7_1" />
         <item itemvalue="Python.WS 7 notes" />
-        <item itemvalue="Python.WSCh7_7" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +321,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20149253" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -412,7 +331,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32917964" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21391486" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21391486" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32917964" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -428,20 +347,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Game file" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SPR19/Notes/Turtles_stufvx.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_4_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../New folder/quiz6_2George.Amarhanov.py" />
     <entry file="file://$PROJECT_DIR$/../../New folder/quiz 6 warm up exercise blank.py" />
     <entry file="file://$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_6_2.py">
@@ -539,59 +444,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Notes/truths/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SPR19/Quiz&amp;EC/TakeHome_Quiz_8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
           <caret line="65" column="11" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_yt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -606,20 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -665,11 +507,18 @@
     <entry file="file://$PROJECT_DIR$/SPR19/Notes/chap 7/Ch7_collatz.py" />
     <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 7 notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5338">
-          <caret line="314" column="43" selection-start-line="314" selection-start-column="43" selection-end-line="314" selection-end-column="43" />
+        <state relative-caret-position="541">
+          <caret line="299" column="1" selection-start-line="299" selection-start-column="1" selection-end-line="299" selection-end-column="1" />
           <folding>
             <marker date="1559929664118" expanded="true" signature="912:1239" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -680,17 +529,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Group_final.py">
+    <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 6 notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="2244">
+          <caret line="132" column="30" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SPR19/Notes/Chapter 6 notes.py">
+    <entry file="file://$PROJECT_DIR$/isPrime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="132" column="30" lean-forward="true" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_10_Homework/hw_10_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="881">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_yt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPR19/Chapter_8_Homework/hw_8_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="81" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="3" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IndFinal_LorenzoMartinez.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Group_final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
